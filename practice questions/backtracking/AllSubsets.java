@@ -5,7 +5,7 @@ public class AllSubsets {
 
     public static void main(String args[]) {
         AllSubsets subset = new AllSubsets();
-        int[] arr = {1, 2};
+        int[] arr = {1, 2,3};
         System.out.println(subset.find(arr));
     }
 
