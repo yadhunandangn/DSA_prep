@@ -2,7 +2,7 @@ package linkedList;
 
 public class LinkedList {
 
-ListNode head;
+public ListNode head;
 
 public static void main(String[] args)
 {
